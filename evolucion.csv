@@ -1,4 +1,3 @@
-﻿"Año";"Periodo";"Evolución de la población residente en España"
 "2002";"Semestre 1";"41,04"
 "2002";"Semestre 2";"41,42"
 "2003";"Semestre 1";"41,83"
@@ -38,17 +37,3 @@
 "2020";"Semestre 1";"47,33"
 "2020";"Semestre 2";"47,35"
 "2021";"Semestre 1";"47,39"
-;;
-;;
-"Métrica":"Evolución de la población residente en España"
-"Fuente":"INE"
-"Clasificación":""
-"Unidad":"Número de personas"
-"Escala":"Millones"
-"EscalaFactorPotencia10":"6"
-"SonDatosNumericos":"True"
-;;
-;;
-"Url":"https://www.epdata.es/evolucion-poblacion-espana/866ce3ba-d62d-433f-be92-4dab5746757d/espana/106"
-"Titulo":"Evolución de la población de España desde el año 2002"
-"Subtitulo":"La población de España se sitúa en 47.394.224 personas "
